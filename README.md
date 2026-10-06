@@ -11,8 +11,7 @@ anywhere, ever.
 
 ## How to open and run it
 
-1. Install **Android Studio** (free, from developer.android.com) if you
-   don't already have it.
+1. Install **Android Studio**
 2. Open Android Studio → **Open** → select this `FullBodyChallenge` folder.
 3. Let Gradle sync (first sync downloads dependencies — needs internet).
 4. Plug in an Android phone (with USB debugging on) or start an emulator
